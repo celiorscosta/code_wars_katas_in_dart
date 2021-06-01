@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../../bin/katas/keep_hydrated.dart';
+import '../../../bin/katas/8kyu/keep_hydrated.dart';
 
 void main() {
   var keep = KeepHydrated();

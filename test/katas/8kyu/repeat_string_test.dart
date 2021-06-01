@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../../bin/katas/repeat_string.dart';
+import '../../../bin/katas/8kyu/repeat_string.dart';
 
 void main() {
   group('basic tests', () {

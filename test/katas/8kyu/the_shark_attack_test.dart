@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../../bin/katas/the_shark_attack.dart';
+import '../../../bin/katas/8kyu/the_shark_attack.dart';
 
 void main() {
   test('BasicTests', () {

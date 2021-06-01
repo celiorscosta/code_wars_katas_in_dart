@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../../bin/katas/area_or_perimeter.dart';
+import '../../../bin/katas/8kyu/area_or_perimeter.dart';
 
 void main() {
   group('area_or_perimeter', () {

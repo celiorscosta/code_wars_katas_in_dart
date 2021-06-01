@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import '../../bin/katas/my_head_is_at_the_wrong_end.dart';
+import '../../../bin/katas/8kyu/my_head_is_at_the_wrong_end.dart';
 
 void testing(List<String> arr, List<String> exp) => test(
     "Testing for ${arr.map((x) => "\"$x\"").toList()}",
