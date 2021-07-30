@@ -1,4 +1,4 @@
-import "package:test/test.dart";
+import 'package:test/test.dart';
 import '../../../bin/katas/8kyu/find_first_non-consecutive_number.dart';
 
 void main() {

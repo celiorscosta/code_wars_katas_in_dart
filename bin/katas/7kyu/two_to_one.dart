@@ -7,6 +7,5 @@ String mySolution(String a, String b) {
 String longest(String a, String b) {
   var strings = (a + b).split('');
   strings.sort();
-
   return strings.toSet().join();
 }

@@ -1,5 +1,3 @@
-import 'dart:math';
-
 int squareSum(List numbers) {
   var sqrSum = 0;
 
